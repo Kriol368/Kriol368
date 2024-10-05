@@ -17,7 +17,6 @@
 - 📫 How to reach me: kriol368@gmail.com
 - ⚡ Fun fact: I love 3ds homebrew
 
----
 
 <details>
   <summary>📜 More about me...</summary>
