@@ -1,14 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Andreu</h1>
 
-<!--
 <p align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200" />
+  <img src="https://media1.tenor.com/m/oPeSpAqz4NoAAAAC/gliscor-pok%C3%A9mon-gliscor.gif" width="200" />
 </p>
 
 
----
 
--->
 ### 👨‍💻 About Me:
 
 - 🔭 I’m currently working on a Xenoblade Chronicles 3 Completion Guide.
