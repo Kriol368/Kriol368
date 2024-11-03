@@ -57,7 +57,7 @@
 
 ### 🚀 My Current Projects:
 
-- Xenoblade Chronicles 3 Completion Guide
+- [Xenoblade Chronicles 3 Completion Guide](https://github.com/Kriol368/xenoblade3-checklist)
 
 ---
 
