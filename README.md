@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Andreu</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/oPeSpAqz4NoAAAAC/gliscor-pok%C3%A9mon-gliscor.gif" width="200" />
+  <img src="gliscor.gif" width="200" />
 </p>
 
 
