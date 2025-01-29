@@ -63,11 +63,11 @@
 
 ### 💬 Languages:
 
-| Language | Proficiency  |
-| -------- | ------------ |
-| English  | B2           |
-| Spanish  | Native       |
-| Catalan  | Native       |
+| Language  | Proficiency  |
+| --------- | ------------ |
+| English   | B2           |
+| Spanish   | Native       |
+| Valencian | Native       |
 
 ---
 
