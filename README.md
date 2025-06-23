@@ -9,7 +9,6 @@
 ### 👨‍💻 About Me:
 
 - 🔭 I’m currently working on a Xenoblade Chronicles Completion Guide.
-- 🌱 I’m currently studying second course of DAW at IES el Caminás
 - 💬 Ask me about anything you want to know
 - 📫 How to reach me: kriol368@gmail.com
 - ⚡ Fun fact: I love 3ds homebrew
