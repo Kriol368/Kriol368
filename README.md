@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me:
 
-- 🔭 I’m currently working on a Xenoblade Chronicles Completion Guide.
+- 🔭 I’m currently working on **a music map based on a map**.
 - 💬 Ask me about anything you want to know
 - 📫 How to reach me: kriol368@gmail.com
 - ⚡ Fun fact: I love 3ds homebrew
@@ -20,6 +20,7 @@
 ### 🛠️ Tech Stack:
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -56,7 +57,7 @@
 
 ### 🚀 My Current Projects:
 
-- [Xenoblade Chronicles Completion Guide](https://github.com/Kriol368/xenoblade-chronicles-checklist-backend)
+- [TrackTrails](https://github.com/Kriol368/tracktrails)
 
 ---
 
@@ -74,4 +75,3 @@
   <img src="https://komarev.com/ghpvc/?username=Kriol368&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 </details>
-
